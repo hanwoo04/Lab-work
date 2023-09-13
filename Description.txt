@@ -1,1 +1,2 @@
-
+Weekly lab report:
+- Writing a code using a jupyter notebook
